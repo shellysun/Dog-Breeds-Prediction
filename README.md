@@ -20,5 +20,7 @@ Method 2 Transfer Learning Approach - VGG16
 
 Method 3 Transfer Learning Approach - InceptionV3
 
+Metohd 4 Fine Tuning (will try later)
+
 Results:
-Method 3 has the highest accuracy
+Method 3 has the highest accuracy so far
